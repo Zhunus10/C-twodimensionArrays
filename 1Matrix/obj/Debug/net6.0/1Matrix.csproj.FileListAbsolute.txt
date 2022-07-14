@@ -1,0 +1,15 @@
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\obj\Debug\net6.0\1Matrix.csproj.AssemblyReference.cache
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\obj\Debug\net6.0\1Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\obj\Debug\net6.0\1Matrix.AssemblyInfoInputs.cache
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\obj\Debug\net6.0\1Matrix.AssemblyInfo.cs
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\obj\Debug\net6.0\1Matrix.csproj.CoreCompileInputs.cache
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\bin\Debug\net6.0\1Matrix.exe
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\bin\Debug\net6.0\1Matrix.deps.json
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\bin\Debug\net6.0\1Matrix.runtimeconfig.json
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\bin\Debug\net6.0\1Matrix.dll
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\bin\Debug\net6.0\1Matrix.pdb
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\obj\Debug\net6.0\1Matrix.dll
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\obj\Debug\net6.0\refint\1Matrix.dll
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\obj\Debug\net6.0\1Matrix.pdb
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\obj\Debug\net6.0\1Matrix.genruntimeconfig.cache
+C:\Users\samsu\Desktop\C#TwoDimensArrays\1Matrix\obj\Debug\net6.0\ref\1Matrix.dll
